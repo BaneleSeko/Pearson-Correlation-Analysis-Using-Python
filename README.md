@@ -1,4 +1,4 @@
-# Pearson-Correlation-Analysis-Using-Python
+# Syntecxhub Project 3 - Correlation Heatmap & Pairwise Relationships
 
 ## Project Overview
 
@@ -107,3 +107,4 @@ Syntecxhub_Project_3/
     ├── correlation_heatmap.png
     ├── pairplot.png
     └── scatter_plot.png
+
